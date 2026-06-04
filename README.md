@@ -1,16 +1,31 @@
-## Hi there 👋
+# Cleiton Costa
 
-<!--
-**cleitoncostaa/cleitoncostaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Delivery Manager focused on technology for business growth, digital transformation, low-code, AI-assisted operations, privacy and HomeLab.
 
-Here are some ideas to get you started:
+## What I Work On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Project, program and portfolio management
+- Business agility, SAFe, Scrum and Kanban
+- AI-assisted productivity and automation
+- HomeLab, Proxmox, Linux, DNS filtering and SecOps learning
+- Practical governance for technology and delivery operations
+
+## Featured Repositories
+
+| Repository | Purpose |
+|---|---|
+| [cleitoncosta](https://github.com/cleitoncostaa/cleitoncosta) | Public portfolio and GitHub Pages site |
+| [pihole-adlists](https://github.com/cleitoncostaa/pihole-adlists) | Curated Pi-hole adlist references for home DNS filtering |
+| [eBooks](https://github.com/cleitoncostaa/eBooks) | Learning library structure with content-governance rules |
+
+## Current Interests
+
+- AI applied to delivery governance and operational efficiency
+- Privacy-aware personal infrastructure
+- Lean documentation, runbooks and decision records
+- Secure home network operations
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/cleitoncosta)
+- [Portfolio](https://cleitoncostaa.github.io/cleitoncosta/)
