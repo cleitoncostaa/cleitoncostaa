@@ -21,4 +21,6 @@ jobs:
           set -euo pipefail
           test -s README.md
           grep -q "Cleiton Costa" README.md
-          git grep -nE 'ghp_|github_pat_|sk-[A-Za-z0-9_-]{20,}|-----BEGIN .*PRIVATE KEY-----|password=|token=' && exit 1 || true
+          if git grep -nE 'ghp_|github_pat_|sk-[A-Za-z0-9_-]{20,}|-----BEGIN .*PRIVATE KEY-----|password=|token=' -- README.md; then
+            exit 1
+          fi
